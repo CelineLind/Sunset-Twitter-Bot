@@ -28,7 +28,7 @@ output = strftime("/home/pi/sunsetBot/Image-%d-%m%H:%M.png", gmtime())
 
 # caption options
 messages = ["Isn't this beautiful?", 
-        "According to all known laws of aviation there is no way a bee should b$
+        "According to all known laws of aviation there is no way a bee should be able to fly",
         "Ooh pretty", "The sun is setting soon", 
         "Sunsets are proof that no matter what happens, every day can end beautfully",
         "Such sun so set", "It is the end of the day and the sky looks like this",
